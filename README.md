@@ -23,7 +23,7 @@
 - 🔭 Currently working on **E-Commerce platforms** and **Management Systems**
 - 🌱 Learning **React.js**, **Node.js**, and **Cloud Technologies**
 - 💡 Interested in **Web Development**, **System Design**, and **Software Architecture**
-- 📫 Reach me at: **your.email@example.com** (update with your email)
+- 📫 Reach me at: **zubairaflatoon9@gmail.com** (update with your email)
 - ⚡ Fun fact: I love turning complex problems into elegant solutions!
 
 ---
