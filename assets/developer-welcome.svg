@@ -1,0 +1,215 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="400">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="deskGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#21262d"/>
+      <stop offset="100%" stop-color="#30363d"/>
+    </linearGradient>
+    <linearGradient id="screenGlow" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+ 
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bg)" rx="12"/>
+ 
+  <!-- Subtle grid pattern -->
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#21262d" stroke-width="0.5"/>
+  </pattern>
+  <rect width="800" height="400" fill="url(#grid)" opacity="0.4" rx="12"/>
+ 
+  <!-- Accent dots -->
+  <circle cx="50" cy="50" r="2" fill="#58a6ff" opacity="0.3"/>
+  <circle cx="130" cy="80" r="1.5" fill="#3fb950" opacity="0.25"/>
+  <circle cx="700" cy="60" r="2" fill="#d2a8ff" opacity="0.2"/>
+  <circle cx="750" cy="350" r="1.5" fill="#58a6ff" opacity="0.2"/>
+  <circle cx="80" cy="350" r="1" fill="#f0883e" opacity="0.2"/>
+ 
+  <!-- ========== DEVELOPER CHARACTER ========== -->
+  <g transform="translate(120, 80)">
+ 
+    <!-- Chair back -->
+    <rect x="30" y="140" width="80" height="120" rx="12" fill="#1a1e24" stroke="#30363d" stroke-width="1"/>
+    <rect x="38" y="148" width="64" height="95" rx="6" fill="#21262d"/>
+ 
+    <!-- Chair base -->
+    <line x1="70" y1="260" x2="70" y2="290" stroke="#30363d" stroke-width="3"/>
+    <ellipse cx="70" cy="292" rx="35" ry="5" fill="#30363d"/>
+ 
+    <!-- Body / Torso - Hoodie -->
+    <path d="M30,185 Q30,155 70,148 Q110,155 110,185 L110,230 Q110,240 100,240 L40,240 Q30,240 30,230 Z" fill="#1f6feb" stroke="#388bfd" stroke-width="0.5"/>
+    <!-- Hoodie detail -->
+    <path d="M60,155 Q70,165 80,155" fill="none" stroke="#388bfd" stroke-width="1" opacity="0.6"/>
+    <line x1="70" y1="155" x2="70" y2="190" stroke="#388bfd" stroke-width="0.5" opacity="0.4"/>
+ 
+    <!-- Neck -->
+    <rect x="60" y="135" width="20" height="20" rx="4" fill="#c69f7b"/>
+ 
+    <!-- Head -->
+    <ellipse cx="70" cy="115" rx="32" ry="36" fill="#c69f7b"/>
+ 
+    <!-- Hair -->
+    <path d="M38,108 Q38,72 70,72 Q102,72 102,108 Q102,95 90,88 Q78,82 65,85 Q50,88 42,100 Z" fill="#1a1a2e"/>
+    <!-- Hair side -->
+    <path d="M38,108 Q35,115 38,125" fill="none" stroke="#1a1a2e" stroke-width="5" stroke-linecap="round"/>
+    <path d="M102,108 Q105,115 102,125" fill="none" stroke="#1a1a2e" stroke-width="5" stroke-linecap="round"/>
+ 
+    <!-- Eyes -->
+    <ellipse cx="58" cy="112" rx="4" ry="4.5" fill="white"/>
+    <ellipse cx="82" cy="112" rx="4" ry="4.5" fill="white"/>
+    <ellipse cx="59" cy="112" rx="2" ry="2.5" fill="#1a1a2e"/>
+    <ellipse cx="83" cy="112" rx="2" ry="2.5" fill="#1a1a2e"/>
+    <!-- Eye shine -->
+    <circle cx="60" cy="111" r="0.8" fill="white"/>
+    <circle cx="84" cy="111" r="0.8" fill="white"/>
+ 
+    <!-- Eyebrows -->
+    <path d="M52,104 Q58,101 63,103" fill="none" stroke="#1a1a2e" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M77,103 Q82,101 88,104" fill="none" stroke="#1a1a2e" stroke-width="1.5" stroke-linecap="round"/>
+ 
+    <!-- Smile -->
+    <path d="M58,124 Q70,134 82,124" fill="none" stroke="#8b6f5e" stroke-width="1.8" stroke-linecap="round"/>
+ 
+    <!-- Glasses -->
+    <rect x="48" y="105" width="18" height="16" rx="4" fill="none" stroke="#58a6ff" stroke-width="1.5" opacity="0.8"/>
+    <rect x="74" y="105" width="18" height="16" rx="4" fill="none" stroke="#58a6ff" stroke-width="1.5" opacity="0.8"/>
+    <line x1="66" y1="112" x2="74" y2="112" stroke="#58a6ff" stroke-width="1" opacity="0.8"/>
+    <line x1="48" y1="112" x2="40" y2="109" stroke="#58a6ff" stroke-width="1" opacity="0.6"/>
+    <line x1="92" y1="112" x2="100" y2="109" stroke="#58a6ff" stroke-width="1" opacity="0.6"/>
+ 
+    <!-- Left Arm (reaching to keyboard) -->
+    <path d="M30,190 Q10,210 25,240 Q30,250 45,248" fill="none" stroke="#1f6feb" stroke-width="16" stroke-linecap="round"/>
+    <!-- Left hand -->
+    <circle cx="45" cy="248" r="7" fill="#c69f7b"/>
+ 
+    <!-- Right Arm (reaching to keyboard) -->
+    <path d="M110,190 Q130,210 115,240 Q110,250 95,248" fill="none" stroke="#1f6feb" stroke-width="16" stroke-linecap="round"/>
+    <!-- Right hand -->
+    <circle cx="95" cy="248" r="7" fill="#c69f7b"/>
+ 
+  </g>
+ 
+  <!-- ========== DESK ========== -->
+  <rect x="60" y="320" width="300" height="12" rx="3" fill="url(#deskGrad)" filter="url(#shadow)"/>
+ 
+  <!-- ========== LAPTOP ========== -->
+  <g transform="translate(110, 235)">
+    <!-- Laptop screen -->
+    <rect x="0" y="0" width="120" height="80" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+    <!-- Screen content - code lines -->
+    <rect x="10" y="12" width="45" height="3" rx="1" fill="#58a6ff" opacity="0.7"/>
+    <rect x="10" y="20" width="70" height="3" rx="1" fill="#3fb950" opacity="0.5"/>
+    <rect x="10" y="28" width="55" height="3" rx="1" fill="#d2a8ff" opacity="0.5"/>
+    <rect x="10" y="36" width="80" height="3" rx="1" fill="#f0883e" opacity="0.4"/>
+    <rect x="10" y="44" width="40" height="3" rx="1" fill="#58a6ff" opacity="0.5"/>
+    <rect x="10" y="52" width="65" height="3" rx="1" fill="#79c0ff" opacity="0.4"/>
+    <rect x="10" y="60" width="50" height="3" rx="1" fill="#3fb950" opacity="0.5"/>
+    <!-- Screen glow -->
+    <rect x="0" y="0" width="120" height="80" rx="6" fill="url(#screenGlow)"/>
+    <!-- Camera dot -->
+    <circle cx="60" cy="6" r="1.5" fill="#30363d"/>
+ 
+    <!-- Laptop base / keyboard -->
+    <path d="M-10,82 L130,82 L140,95 Q140,98 137,98 L-17,98 Q-20,98 -20,95 Z" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+    <!-- Trackpad -->
+    <rect x="40" y="86" width="40" height="8" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  </g>
+ 
+  <!-- Coffee mug -->
+  <g transform="translate(280, 290)">
+    <rect x="0" y="8" width="22" height="24" rx="4" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+    <path d="M22,14 Q32,14 32,22 Q32,28 22,28" fill="none" stroke="#30363d" stroke-width="1.5"/>
+    <!-- Steam -->
+    <path d="M6,6 Q4,0 8,-4" fill="none" stroke="#484f58" stroke-width="1" opacity="0.5">
+      <animate attributeName="opacity" values="0.5;0.2;0.5" dur="2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M14,4 Q12,-2 16,-6" fill="none" stroke="#484f58" stroke-width="1" opacity="0.4">
+      <animate attributeName="opacity" values="0.4;0.1;0.4" dur="2.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+ 
+  <!-- ========== SPEECH BUBBLE ========== -->
+  <g filter="url(#shadow)">
+    <!-- Bubble body -->
+    <rect x="380" y="30" width="380" height="200" rx="16" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <!-- Bubble pointer -->
+    <polygon points="380,120 360,140 380,150" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <line x1="381" y1="121" x2="381" y2="149" stroke="#161b22" stroke-width="3"/>
+ 
+    <!-- Greeting text -->
+    <text x="410" y="68" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#e6edf3">
+      Hey there! Welcome
+    </text>
+ 
+    <!-- Intro line 1 -->
+    <text x="410" y="100" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="14" fill="#8b949e">
+      I'm
+    </text>
+    <text x="428" y="100" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="14" font-weight="600" fill="#58a6ff">
+      Muhammad Zubair Arif
+    </text>
+ 
+    <!-- Intro line 2 -->
+    <text x="410" y="126" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" fill="#8b949e">
+      Full-Stack Software Engineer who builds
+    </text>
+ 
+    <!-- Intro line 3 -->
+    <text x="410" y="148" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" fill="#8b949e">
+      AI-powered systems with
+    </text>
+    <text x="575" y="148" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#3fb950">
+      real impact.
+    </text>
+ 
+    <!-- Tech tags -->
+    <rect x="410" y="166" width="52" height="20" rx="4" fill="#1f6feb" opacity="0.15" stroke="#1f6feb" stroke-width="0.5"/>
+    <text x="418" y="180" font-family="'Fira Code', monospace" font-size="10" fill="#58a6ff">NestJS</text>
+ 
+    <rect x="470" y="166" width="52" height="20" rx="4" fill="#1f6feb" opacity="0.15" stroke="#1f6feb" stroke-width="0.5"/>
+    <text x="478" y="180" font-family="'Fira Code', monospace" font-size="10" fill="#58a6ff">Next.js</text>
+ 
+    <rect x="530" y="166" width="42" height="20" rx="4" fill="#1f6feb" opacity="0.15" stroke="#1f6feb" stroke-width="0.5"/>
+    <text x="538" y="180" font-family="'Fira Code', monospace" font-size="10" fill="#58a6ff">Flask</text>
+ 
+    <rect x="580" y="166" width="38" height="20" rx="4" fill="#1f6feb" opacity="0.15" stroke="#1f6feb" stroke-width="0.5"/>
+    <text x="588" y="180" font-family="'Fira Code', monospace" font-size="10" fill="#58a6ff">RAG</text>
+ 
+    <rect x="626" y="166" width="48" height="20" rx="4" fill="#1f6feb" opacity="0.15" stroke="#1f6feb" stroke-width="0.5"/>
+    <text x="634" y="180" font-family="'Fira Code', monospace" font-size="10" fill="#58a6ff">Azure</text>
+ 
+    <rect x="682" y="166" width="52" height="20" rx="4" fill="#1f6feb" opacity="0.15" stroke="#1f6feb" stroke-width="0.5"/>
+    <text x="690" y="180" font-family="'Fira Code', monospace" font-size="10" fill="#58a6ff">Docker</text>
+ 
+    <!-- Status indicator -->
+    <circle cx="418" cy="212" r="4" fill="#3fb950">
+      <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="428" y="216" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="12" fill="#3fb950">
+      Open to opportunities
+    </text>
+  </g>
+ 
+  <!-- Floating code symbols -->
+  <text x="30" y="160" font-family="'Fira Code', monospace" font-size="14" fill="#58a6ff" opacity="0.15">&lt;/&gt;</text>
+  <text x="340" y="380" font-family="'Fira Code', monospace" font-size="12" fill="#d2a8ff" opacity="0.12">{ }</text>
+  <text x="680" y="310" font-family="'Fira Code', monospace" font-size="14" fill="#3fb950" opacity="0.1">fn()</text>
+  <text x="720" y="380" font-family="'Fira Code', monospace" font-size="11" fill="#58a6ff" opacity="0.1">async</text>
+ 
+</svg>
+
