@@ -1,6 +1,6 @@
-<h1 align="center">Muhammad Zubair Arif</h1>
-
-<h3 align="center">Full-Stack Software Engineer | AI & Automation | Building Production Systems That Deliver Results</h3>
+<p align="center">
+  <img src="./assets/developer-welcome.svg" alt="Muhammad Zubair Arif — Full-Stack Software Engineer" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-Stack+Engineer+%7C+AI+%26+Automation;RAG+Pipelines+%7C+Multi-Agent+Systems;NestJS+%7C+Next.js+%7C+Flask+%7C+Azure;Shipping+Production+Systems+With+Impact" alt="Typing SVG" />
