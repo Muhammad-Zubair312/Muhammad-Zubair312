@@ -1,5 +1,5 @@
-[![banner](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:1f6feb,100:58a6ff&text=MUHAMMAD%20ZUBAIR%20ARIF&fontColor=f8f8f8&fontSize=32&fontAlign=38&fontAlignY=36&desc=Full-Stack%20%7C%20AI%20Engineer%20%7C%20DevOps%20%26%20QA&descAlign=50&descAlignY=58&descSize=16&animation=fadeIn)](#)
-[![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Full-Stack+Engineer+%7C+AI+%26+Automation;NestJS+%C2%B7+Next.js+%C2%B7+Flask+%C2%B7+.NET+%C2%B7+Azure;RAG+Pipelines+%7C+Multi-Agent+Systems;DevOps+%7C+CI%2FCD+%7C+QA+Automation)](#)
+[![banner](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:1f6feb,100:58a6ff&text=MUHAMMAD%20ZUBAIR%20ARIF&fontColor=f8f8f8&fontSize=32&fontAlignY=36&desc=Full-Stack%20%7C%20AI%20Engineer%20%7C%20DevOps%20%26%20QA&descAlignY=58&descSize=16&animation=fadeIn)](#)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Full-Stack+Engineer+%7C+AI+%26+Automation;NestJS+%C2%B7+Next.js+%C2%B7+Flask+%C2%B7+.NET+%C2%B7+Azure;RAG+Pipelines+%7C+Multi-Agent+Systems;DevOps+%7C+CI%2FCD+%7C+QA+Automation)](#)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammadzubairarif"><img src="https://img.shields.io/badge/LinkedIn-muhammadzubairarif-1f6feb?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
