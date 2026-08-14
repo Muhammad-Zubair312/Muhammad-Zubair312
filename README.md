@@ -1,14 +1,20 @@
-[![banner](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:1f6feb,100:58a6ff&text=MUHAMMAD%20ZUBAIR%20ARIF&fontColor=f8f8f8&fontSize=32&fontAlignY=36&desc=Full-Stack%20%7C%20AI%20Engineer%20%7C%20DevOps%20%26%20QA&descAlignY=58&descSize=16&animation=fadeIn)](#)
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Full-Stack+Engineer+%7C+AI+%26+Automation;NestJS+%C2%B7+Next.js+%C2%B7+Flask+%C2%B7+.NET+%C2%B7+Azure;RAG+Pipelines+%7C+Multi-Agent+Systems;DevOps+%7C+CI%2FCD+%7C+QA+Automation)](#)
+<div align="center">
 
-<p align="center">
-<a href="https://www.linkedin.com/in/muhammadzubairarif"><img src="https://img.shields.io/badge/LinkedIn-muhammadzubairarif-1f6feb?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
-<a href="mailto:zubairaflatoon9@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-58a6ff?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
-<a href="https://github.com/Muhammad-Zubair312"><img src="https://img.shields.io/badge/GitHub-Muhammad--Zubair312-58a6ff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/></a>
-<img src="https://komarev.com/ghpvc/?username=Muhammad-Zubair312&label=Profile+Views&color=1f6feb&style=flat-square" alt="Profile Views"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:1f6feb,100:58a6ff&text=MUHAMMAD%20ZUBAIR%20ARIF&fontColor=f8f8f8&fontSize=32&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="banner" />
 
-```
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=640&lines=NestJS+%C2%B7+Next.js+%C2%B7+Flask+%C2%B7+.NET+%C2%B7+Azure;RAG+Pipelines+%7C+Multi-Agent+Systems;DevOps+%7C+CI%2FCD+%7C+QA+Automation;Fresh+Grad+%E2%80%9926+%C2%B7+Production+Systems+Shipped" alt="typing" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/muhammadzubairarif"><img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Muhammad-Zubair312"><img src="https://img.shields.io/badge/GitHub-Muhammad--Zubair312-58a6ff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:zubairaflatoon9@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Email" /></a>
+
+</div>
+
+<br/>
+
+```bash
 $ whoami
 > muhammad-zubair-arif :: full-stack & ai engineer :: BS software engineering, PUCIT '26
 
@@ -32,11 +38,15 @@ $ status
 > [██████████] open to roles in AI/ML Engineering, Full-Stack Development, DevOps & QA Engineering
 ```
 
+<div align="center">
+
 ## ⚡ Arsenal
 
-[![stack](https://skillicons.dev/icons?i=cs,dotnet,java,cpp,py,js,ts,nodejs,nestjs,react,nextjs,flask,postgres,mongodb,mysql,redis,docker,azure,git,github&perline=10)](#)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,cpp,py,js,ts,nodejs,nestjs,react,nextjs,flask,postgres,mongodb,mysql,redis,docker,azure,git,github&perline=10" alt="stack" />
 
 ## 🛰️ Missions
+
+</div>
 
 | Project | Payload | Status |
 | --- | --- | --- |
@@ -63,12 +73,16 @@ Role-based auth via ASP.NET Core Identity, Repository pattern, real-time notific
 **[E-Commerce Platform (Java EE)](https://github.com/Muhammad-Zubair312/E-Commerce-Website)**
 Role-based access control and inventory management on Jakarta Servlets, MySQL, Apache Tomcat.
 
-**Library & Employee Management Systems (C# / .NET 8)**
-Console apps over SQL Server via ADO.NET / EF Core — full CRUD, transaction validation, 3-layer architecture, multi-field search & analytics.
+**[Library Management System](https://github.com/Muhammad-Zubair312/Library-Management-System)**
+C#/.NET 8 console app over SQL Server via ADO.NET — full CRUD, transaction validation, analytics on most-borrowed books.
 
 </details>
 
+<div align="center">
+
 ## 🧭 Focus Tracks
+
+</div>
 
 | Track | What I bring |
 | --- | --- |
@@ -77,27 +91,26 @@ Console apps over SQL Server via ADO.NET / EF Core — full CRUD, transaction va
 | ☁️ **DevOps & Cloud** | Docker & Docker Compose, Nginx reverse-proxy/load-balancing, CI/CD, Azure, Git/GitHub, Linux fundamentals |
 | 🧪 **QA & Security Testing** | Cypress (UI), Postman (API), k6 (load/perf), OWASP ZAP (DAST), SonarQube (SAST) |
 
+<div align="center">
+
 ## 🌆 Contribution City
 
-[![3D contribution graph](https://raw.githubusercontent.com/Muhammad-Zubair312/Muhammad-Zubair312/main/profile-3d-contrib/profile-night-blue.svg)](https://github.com/Muhammad-Zubair312/Muhammad-Zubair312/blob/main/profile-3d-contrib/profile-night-blue.svg)
+<img src="https://raw.githubusercontent.com/Muhammad-Zubair312/Muhammad-Zubair312/main/profile-3d-contrib/profile-night-view.svg" width="94%" alt="3D contribution graph" />
 
 ## 📊 Telemetry
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zubair312&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zubair312&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" alt="Top Languages"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=Muhammad-Zubair312&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=8b949e" alt="streak" />
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Muhammad-Zubair312&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=8b949e" alt="GitHub Streak"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Zubair312&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f8f8f8&area=true&area_color=1f6feb&hide_border=true" width="94%" alt="activity graph" />
 
 ## 🐍 The Hunt
 
-[![contribution snake](https://raw.githubusercontent.com/Muhammad-Zubair312/Muhammad-Zubair312/output/github-snake-dark.svg)](https://raw.githubusercontent.com/Muhammad-Zubair312/Muhammad-Zubair312/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Muhammad-Zubair312/Muhammad-Zubair312/output/github-snake-dark.svg" width="94%" alt="contribution snake" />
 
-<p align="center">
-<a href="mailto:zubairaflatoon9@gmail.com"><img src="https://img.shields.io/badge/📬_Initiate_Contact-zubairaflatoon9@gmail.com-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Contact"/></a>
-</p>
+<br/><br/>
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&height=110&color=0:58a6ff,50:1f6feb,100:0d1117&section=footer)](#)
+<a href="mailto:zubairaflatoon9@gmail.com"><img src="https://img.shields.io/badge/▸_Initiate_contact-zubairaflatoon9@gmail.com-1f6feb?style=for-the-badge&labelColor=0d1117" alt="contact" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:58a6ff,50:1f6feb,100:0d1117&section=footer" width="100%" alt="footer" />
+
+</div>
