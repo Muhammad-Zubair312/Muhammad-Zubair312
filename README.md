@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/muhammadzubairarif"><img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Muhammad-Zubair312"><img src="https://img.shields.io/badge/GitHub-Muhammad--Zubair312-58a6ff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:zubairaflatoon9@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Email" /></a>
+<a href="mailto:muhammadzubairarif288@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Email" /></a>
 
 </div>
 
@@ -51,9 +51,9 @@ $ status
 | Project | Payload | Status |
 | --- | --- | --- |
 | **[WhatsApp AI Agent + Human Shared Inbox](https://www.loom.com/share/dafb2dcd671f4012a89cda914a9c09b6)** | Production automation backend (NestJS, PostgreSQL, Redis, BullMQ, DeepSeek + Groq for fast inference). Cut ad creation from 20 min → 2 min, <5s AI response time, ~85% less manual operator workload. | 🟢 Live, 24/7 |
-| **FinDoc Intelligence** | Financial Q&A over SEC 10-K filings via Vectorless RAG — 246-node parsed filing trees navigated by an 8-node LangGraph agent, 80% accuracy on a custom Tesla / NVIDIA / Apple benchmark, source-cited answers in <4s, 4 ML models across 6 Docker containers. | 🟢 Demo |
+| **[FinDoc Intelligence](https://github.com/Muhammad-Zubair312/findoc)** | Financial Q&A over SEC 10-K filings via Vectorless RAG — 246-node parsed filing trees navigated by an 8-node LangGraph agent, 80% accuracy on a custom Tesla / NVIDIA / Apple benchmark, source-cited answers in <4s, 4 ML models across 6 Docker containers. | 🟢 [Live Preview](https://www.loom.com/share/ce7190356f7e46b296c9f1a5999efb2c) |
 | **[Vakeel.ai](https://github.com/Muhammad-Zubair312/vakeel.ai)** | Agentic legal research platform — Planner / Retriever / Validator multi-agent workflow over a Neo4j context graph, with citation freshness checks, tool/token/loop guardrails, and full observability via Langfuse. | 🟢 [Demo](https://www.loom.com/share/a4c7923f1e0e41b0b33524eeb47c7e42) |
-| **PitchPilot.ai** | End-to-end AI SDLC platform — RAG chatbot for requirements gathering, validated via Wireframe + Website Builder agents, auto-generates SRS / RTM / Risk / Cost docs with automated PDF delivery. Compresses a 3–4 week manual process to under 10 minutes. | 🟢 Demo |
+| **[PitchPilot.ai](https://pitchpilotai.netlify.app/)** | End-to-end AI SDLC platform — RAG chatbot for requirements gathering, validated via Wireframe + Website Builder agents, auto-generates SRS / RTM / Risk / Cost docs with automated PDF delivery. Compresses a 3–4 week manual process to under 10 minutes. | 🟢 Demo |
 | **[Happy Event Planner](https://github.com/Muhammad-Zubair312/happy-event-planner)** | Full-stack e-commerce store (Next.js, TypeScript, Supabase) with WhatsApp + COD checkout. Cut order time from 5–10 min to under 60 seconds. | 🟢 [Live](https://happy-event-planner.vercel.app) |
 | **[Gitea SQE Automation Suite](https://github.com/Muhammad-Zubair312/Gitea-Software-Quality-Engineering-Automation-Suite)** | End-to-end QA & security pipeline on a self-hosted Gitea instance — Cypress (UI), Postman (API), k6 (200 VUs, 100% request success), OWASP ZAP + SonarQube (DAST/SAST) — 0 high-risk vulnerabilities. | 🟢 Complete |
 
